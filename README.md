@@ -11,7 +11,7 @@ The output algorithms have been used to test if they can maintain their accuracy
 
 This project is licensed under the [MIT LICENSE](LICENSE.md). 
 
-## Web Application Link
+## Web App Link
 https://mush-class.herokuapp.com
 
 ## Contributors
